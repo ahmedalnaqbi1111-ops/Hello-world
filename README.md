@@ -1,2 +1,3 @@
 # Hello-world
-# This is my first GutHub project.
+# This is my first GitHub project.
+print('Hello World)
